@@ -8,4 +8,8 @@ let us do some more editing
 
 let u see if it is working gi
 hi we are here 
-this is new 
+this is new
+
+
+local developmenst 
+oprn index.hitml
